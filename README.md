@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Allipilliramya
+- 👀 I’m interested in Software Developemnt
+- 🌱 I’m currently learning C and C++
+- 💞️ I’m looking to collaborate on Real-time projects and comapny work
+- 📫 How to reach me ramyaallipilli012@gmail.com
